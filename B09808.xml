@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions made by the sachems of the three Maquas castles, to the mayor, aldermen, and commanalty [sic] of the city of Albany, and military offiicers of the said city, and county in the city-hall, Febryary 25th. 1689/90. Peiter Schuyler mayor, with ten more gentlemen, then present. / Interpreted by Arnout &amp; Hille.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09808</idno>
+            <idno type="STC">Wing P3793</idno>
+            <idno type="STC">ESTC W31185</idno>
+            <idno type="EEBO-CITATION">69648859</idno>
+            <idno type="OCLC">ocm 69648859</idno>
+            <idno type="VID">185030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185030)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2884:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions made by the sachems of the three Maquas castles, to the mayor, aldermen, and commanalty [sic] of the city of Albany, and military offiicers of the said city, and county in the city-hall, Febryary 25th. 1689/90. Peiter Schuyler mayor, with ten more gentlemen, then present. / Interpreted by Arnout &amp; Hille.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Green, sold by Benjamin Harris at the London Coffee-House,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schuyler, Peter, 1657-1724.</term>
+               <term>Iroquois Indians --  Treaties.</term>
+               <term>Schenectady (N.Y.) --  Destruction, 1690 --  Sources.</term>
+               <term>United States --  History --  King William's War, 1689-1697 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:185030:1" rendition="simple:additions"/>
+            <pb facs="tcp:185030:1"/>
+            <pb facs="tcp:185030:2" rendition="simple:additions"/>
+            <pb facs="tcp:185030:2"/>
+            <pb facs="tcp:185030:3"/>
+            <pb facs="tcp:185030:3"/>
+            <pb facs="tcp:185030:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:185030:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:185030:5"/>
+            <pb n="1" facs="tcp:185030:5" rendition="simple:additions"/>
+            <head>
+               <hi>Propoſitions</hi> Made by the <hi>Sachems</hi> of the three <hi>Maquas</hi> Caſtles, to the <hi>Mayor, Aldermen,</hi> and <hi>Commanalty</hi> of the City of <hi>Albany,</hi> and Military Officers of the ſaid City, and County in the City-Hall, <hi>February</hi> 25th. <hi>1689/90.</hi> Peiter Schuyler <hi>Mayor,</hi> with ten more Gentlemen, then preſent <hi>Interpreted by</hi> Arnout <hi>&amp;</hi> Hille. <hi>The Names of the Sachims,</hi> Sinnonguineſs <hi>Speaker,</hi> Rode, Sagoddiockquiſax, Oguedagoa. Toſoquatho, Odaguraſſe, Anharenda, Jagogthera.</head>
+            <opener>
+               <salute>Brethren,</salute>
+            </opener>
+            <p>WEE are Sorry and extreamly Griev'd for the Murther lately committed by the <hi>French</hi> up<g ref="char:EOLhyphen"/>on our Brethren of <hi>Shennechtady,</hi> we eſteem this Evil, as if done to our ſelves, being all in one <hi>Covenant-Chain;</hi> But what they have done is by way of ſtealth, by way of Robbery unawares; our Bre<g ref="char:EOLhyphen"/>thren of <hi>New-England</hi> will be ſorry to hear of this ſad Diſaſter, but we muſt not be diſcouraged. [They give a Belt of <hi>Wampom,</hi> according to their cuſtome, to wipe off the Tears.</p>
+            <p n="2">2. <hi>Brethren,</hi> We lament and condole the Death of ſo many of our <hi>Brethren</hi> ſo baſely Murther'd at <hi>Shennechtady;</hi> we can<g ref="char:EOLhyphen"/>not account it a great <hi>Victory,</hi> for it is done by way of <hi>Deceit.</hi> He (meaning the Governour of <hi>Canada</hi>) comes to our Coun<g ref="char:EOLhyphen"/>try
+<pb n="2" facs="tcp:185030:6"/> by his Meſſengers at <hi>Onnondage,</hi> and ſpeaks of Peace, with the whole <hi>Houſe</hi> quite hither: but War is in his heart, as you find by woful experience, but what ſhall we ſay? it is the ſame as he did at <hi>Cadarachqui,</hi> and the <hi>Sinnakes</hi> Countrey. This is the <hi>third time</hi> that he has done ſo; he has broke open the Jewel of our Houſe on both ends, the one end at <hi>Sinnondowanne,</hi> and the other here, But we hope to be Revenged. There is one hundred of our young men out ſtill, who will purſue them to their Doors at <hi>Cannida;</hi> nay, the <hi>French</hi> ſhall not be able to cut a ſtick of Wood, we will lay ſo cloſe Seige to them; We do now gather the Dead together in order to their Interment. A manner of ſpeak<g ref="char:EOLhyphen"/>ing amongſt. [They do give a Belt of <hi>Wampom</hi>
+            </p>
+            <p n="3">3. We are come here from our Caſtles with Tears in our Eyes to Bemoan the Murther committed by the perfideous <hi>French</hi> at <hi>Shennechtady,</hi> our young <hi>Indians</hi> are gone out in Pur<g ref="char:EOLhyphen"/>ſuit of them, and while we are now buſie in burying the Dead that were Murthered there, we may have bad news that our peo<g ref="char:EOLhyphen"/>ple that are gone out, may be kill'd alſo; the ſame that is be<g ref="char:EOLhyphen"/>fallen you, may befal us: We do therefore come and bury our Brethren at <hi>Shennechtady.</hi> [They give a Belt of <hi>Wampom,</hi> accor<g ref="char:EOLhyphen"/>ding to their cuſtome.</p>
+            <p n="4">4 Great is the Miſchief that is befallen us, it is come from the <hi>Heavens</hi> upon us, we are taught by our Fore-fathers, when any ſad Accident or Diſaſter doth befal any of the Covenant, to go with all convenient ſpeed to Bemoan their Death; [They give a Belt of <hi>Wampom,</hi> which they call a Belt of <hi>Vigilance,</hi> that is, not to have too much thoughts on what is done that cannot be Remedied, but to be watchful for the future; and they give <hi>Eye-water</hi> to make the Brethren <hi>ſharp-ſighted.</hi>
+            </p>
+            <p n="5">5 We come to the houſe where we uſually do Renew the <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> which Houſe we find defiled with Blood, this is known
+<pb n="3" facs="tcp:185030:6" rendition="simple:additions"/> to all the five Nations, and we are now come to wipe off the Blood and keep the Houſe clean, and therefore pray that <hi>Corlaer</hi> and all they that are in Office here in <hi>Albany,</hi> naming the Mayor whom they cal <hi>Peiter,</hi> Mr. <hi>Veſſels,</hi> and Mr. <hi>Livingſtone</hi> may uſe all means and Direct all Affairs to be Revenged of the Enemy that hath done us this Evil [They give a Belt of <hi>Wampom.</hi>
+            </p>
+            <p n="6">6 Brethren: Do not be Diſcouraged, this is but a beginning of the <hi>War,</hi> we are ſtrong enough, the whole houſe have their Eyes fixed upon you, and they only ſtay your motion, and will be ready to do whatever ſhall be Reſolved upon by our Brethren, our Covenant is a firm Covenant it is a <hi>Silver Chain</hi> and cannot be broke, it muſt not be broke; we are Reſo<g ref="char:EOLhyphen"/>lute and will Continue the VVar, we will not leave off, if there were but Thirty Men of us left, we will proceed, therefore pray take good heart, do not pack up and go away, if the E<g ref="char:EOLhyphen"/>nemy ſhould hear that, it would much encourage them, we are of the Race of the <hi>Bear,</hi> and a <hi>Bear</hi> doth not yield as long as there is a drop of Blood in its body we muſt all be ſo; [They give a Belt of <hi>Wampom.</hi>
+            </p>
+            <p n="7">7. Brethren, Be Content, <hi>Look up to the Heavens;</hi> from thence the Judgment is come now upon us, Be not Diſcouraged, the ſame hand that hath Chaſtized us can heal us; The Sun which now hath been Cloudy, and ſent us this Diſaſter, will ſhine a<g ref="char:EOLhyphen"/>gain, and with its pleaſant Beams comfort us, <hi>Be Encouraged;</hi> [with many Repetitions. And they give a <hi>Bear-skin.</hi>
+            </p>
+            <p n="8">☞ 8 We were Engaged in a Bloody War with the <hi>French,</hi> about three years ago, and were Encouraged to Proceed, and no ſooner were we well Entred, and got ſeveral Priſoners, but a Ceſſation came, and <hi>Corlaer</hi> hindred us to proceed, and Deman<g ref="char:EOLhyphen"/>ded the Priſoners from us; we were Obedient and did deliver
+<pb n="4" facs="tcp:185030:7" rendition="simple:additions"/> them, and laid down the Hatchet, which if we might have gone forward, then the French would not have been in that Ca<g ref="char:EOLhyphen"/>pacity to do ſo much miſchief as they do; But now we muſt dye; <hi>ſuch Obſtructions will Ruine us;</hi> if we might have had our wills, we would have prevented their Planting, Sowing and Reaping, and brought them low and mean; Nevertheleſs let us be ſtedfaſt, and not take ſuch meaſures again, let us go on brisk<g ref="char:EOLhyphen"/>ly with the War. [They give a <hi>Bear-skin,</hi>
+            </p>
+            <p n="9">9 We Recommend the Brethren to keep good <hi>Watch,</hi> and if any Enemies come, take care that Meſſengers be more ſpeedily ſent to us then lately was done, we would not adviſe the Bre<g ref="char:EOLhyphen"/>thren quite to Deſert <hi>Sennechtady,</hi> but to make a Fort there, the Enemy would be too glorious to ſee it quite Deſolate, and the Town here is not well Fortified, the Stockadoes are ſo ſhort, the Indians can jump over them like a Dog. [They give a <hi>Bear-skin.</hi>
+            </p>
+            <p n="10">☞ 10 This miſchief is done at <hi>Sennechtady,</hi> and it cannot be helped, but as ſoon as any Enemy comes, let nothing hinder your ſpeedy ſending to us the News by Poſts, and Fyring great Guns, that all may be Alarm'd; and our Adviſe is that you get all the River Indians who are under your Subjection to come and live near unto you, to be ready on all occaſions, and ſend word to <hi>New-England</hi> of all what's done here; undoubtedly they will awake and lend us their helping hand; let us not be Diſcouraged, <hi>The French are not ſo many as People talk off;</hi> if we but mind our buiſineſs, They can be ſubdued, with the aſſiſtance of our Neighbours of <hi>New-England,</hi> whoſe intereſt it is to drive on this War as much as ours, that it may be ſpee<g ref="char:EOLhyphen"/>dily ended.</p>
+            <p>We deſire that the Brethren may Recommend the Smiths not to be too dear in Repairing our Arms, ſince Mony is ſo
+<pb n="5" facs="tcp:185030:7"/> ſcarce, and we only go to <hi>Warring</hi> and not to <hi>Hunting;</hi> we ſhall take care to warn the <hi>Sinnakes</hi> and the Nations living above us to be in Readineſs; for we being one they hearken to us, and tell them of <hi>New-England</hi> that we ſhall take care that the upper Nations be Ready for our Security and Aſſiſtance, and <hi>Let them be Ready alſo with Ships and great Guns by Water, and we will Plague him by Land:</hi> We are Reſolved not to go out a Hunting, but to mind the War, for the <hi>ſooner</hi> the <hi>French</hi> be fallen upon the <hi>better,</hi> before they get Men and Pro<g ref="char:EOLhyphen"/>viſions from <hi>France,</hi> as their uſual Cuſtome is. [They give a <hi>Bear-Skin.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>
+               <hi>ANSWER upon the</hi> Maquas Sachims Propoſitions; by the <hi>Mayor, Aldermen,</hi> and <hi>Commonalty</hi> of the City of <hi>Albany,</hi> and <hi>Military Officers</hi> of the ſaid City and County: At the <hi>City-Hall, Febr.</hi> 26th. <hi>1689/90</hi>
+            </head>
+            <head type="sub">Interpreted by <hi>Arnout, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Brethren,</salute>
+            </opener>
+            <p>YOur coming here according to the Cuſtome of your Anceſtors, to Condole the death of your <hi>Brethren</hi> Mur<g ref="char:EOLhyphen"/>thered at <hi>Shennechtady</hi> is very acceptable, whereby your Inclination towards us is Demonſtrated; we muſt acknowledg that they did not keep ſo good Watch as they ought, conſidering what a falſe and deceitful Enemy they had to deal withal, but that which made them ſo ſecure, was, the great Truſt which they Repoſed in the forty <hi>Maquaſs</hi> who came here, and Tendered their Service to go and be the Out-watch, and to ſpy the Enemy: To which end Powder and Lead
+<pb n="6" facs="tcp:185030:8"/> was given them as they deſired; we were about Hiring Chri<g ref="char:EOLhyphen"/>ſtians to ſend thither, but were unhappily diverted by the ſaid Company of <hi>Maquaſs,</hi> who promiſed to have four Poſts ready, two to go to their own Country, and two to come hither if a<g ref="char:EOLhyphen"/>ny Enemy ſhould appear. For the Brethren did aſſure us, that no <hi>French</hi> could come here without being Diſcovered; and then would all fall into our hands: We are likewiſe mindful, how that the five Nations laſt <hi>Fall,</hi> when the Gentlemen of <hi>New-England</hi> were here did Declare how they would Encompaſs the <hi>French</hi> of <hi>Canada,</hi> that they could not break out this Winter, without being Diſcovered and Fallen upon: We did likewiſe propoſe by our Meſſengers, <hi>Arnout,</hi> and <hi>Robert Sanders</hi> at the General Meeting of <hi>Onnondage</hi> to have Three or Four Hundred Men ſent hither to be ready on all occaſions, but ſee none.</p>
+            <p>Now <hi>Brethren,</hi> this Evil is done and cannot be called back again, and the only means to prevent the like for the future, is to keep good Watch, and to have good courage to oppoſe and reſiſt the Enemy. We are no wayes Diſcomfited for this miſ<g ref="char:EOLhyphen"/>fortune. It is the fortune of War, we do not fear to be even with the <hi>French</hi> in a ſhort time; we have already ſent Let<g ref="char:EOLhyphen"/>ters to all our Neighbours of <hi>New-England, Virginia</hi> and <hi>Mary-Land,</hi> the Subjects of the great King of <hi>England,</hi> and acquainted them of the <hi>Evil</hi> done here by the <hi>French,</hi> and how requiſite it is, that Ships be fitted out with all convenient ſpeed, to go to <hi>Quebeck,</hi> and to preſs the buſineſs the more, we do now ſend perſons to <hi>New-York</hi> and <hi>New-England,</hi> a purpoſe to lay open the Caſe before them. And to perſwade them to Rig out Veſ<g ref="char:EOLhyphen"/>ſels not only to hinder Succour coming from <hi>France,</hi> but to take <hi>Quebeck</hi> it ſelf: as alſo to ſend more Men hither, that we may then ſend Men along with you to annoy the Enemy in their Country In the mean time we recommend the <hi>Brethren</hi> to ſend for
+<pb n="7" facs="tcp:185030:8"/> 
+               <hi>two hundred Men</hi> from the upper Nations, to joyn with you, to keep the <hi>French</hi> in continual Alarm, and do them what miſchief imaginable; and <hi>Onnondages</hi> and <hi>Sinnekes</hi> muſt go down the Ri<g ref="char:EOLhyphen"/>ver of <hi>Cadarachqui,</hi> and meet one another about <hi>Mont Royal,</hi> and annoy the Enemy there: we ſhall in the mean while Fortifie the Town, and put our ſelves in a good poſture of Defence, that we may not be Surprized, as they of <hi>Shennechtady</hi> were; and make all Preparations to oppoſe the Enemy.</p>
+            <p>The <hi>Brethren</hi> ſee that we are in War with <hi>France,</hi> now there is no time to ſpeak of Peace. The <hi>French</hi> as you well obſerve have fallen on both ends of the Chain, but not broke it. Let us keep the Covenant ſo much the faſter, which never has had the leaſt crack ſince the very firſt the <hi>Chriſtians</hi> came here: They ſtrove to lull us as all aſleep, by their Meſſengers at <hi>Onnondage,</hi> ſpeaking of Peace, and then they were upon the way, hither to commit this Murther.</p>
+            <p>☞ The <hi>Brethren</hi> need not fear for a <hi>Ceſſation</hi> to hinder us to purſue the Enemy, for as we told you before, the KING that ordered <hi>that,</hi> was a <hi>Papiſt,</hi> and a great Friend of the <hi>French;</hi> But our preſent Great KING will purſue the War to the outmoſt: Therefore we muſt all prepare for War. It will therefore be very requiſite that the <hi>Brethren</hi> for their better Security come and Plant this Summer at <hi>Shinnechtady</hi> upon the Land that can<g ref="char:EOLhyphen"/>not be cultivated this year, that we may be near to one another upon any occaſion. Concerning the Propoſition of the <hi>Shackkook</hi> Indians, 'tis concluded on ſome dayes ago, to propoſe to the <hi>Shack<g ref="char:EOLhyphen"/>kook</hi> Indians the Planting on <hi>Marte Gerritſe</hi> Iſland hard by the Town, and the River Indians that live below ſhall alſo come to<g ref="char:EOLhyphen"/>gether to be ready on all occaſions.</p>
+            <p>We muſt Inſiſt and Recommend you to perſwade them of <hi>Oneyde</hi> to ſend the <hi>Prieſt</hi> hither, for you have ſeen how dangerous
+<pb n="8" facs="tcp:185030:9"/> it is to have ſuch perſons among you, who informs the Enemy of all your doings, and diſcovers all our Deſigns, we ſhall ſecure him that he Run not away, and when the Owner demands him, and theſe Troubles are over, ſhall be Delivered, for he can do more harm in <hi>Oneyde</hi> than an hundred men.</p>
+            <p>We think it Convenient that one or two of the <hi>Sachims</hi> ſtay here, and that a <hi>Sachim</hi> of each Nation be here to aſſiſt in the management of the Affairs of the War. There was given them ſix Belts or <hi>Wam<g ref="char:EOLhyphen"/>pom,</hi> ſome <hi>Duffils,</hi> Tobacco, and ſome Bags with Proviſion.</p>
+            <p>After the Propoſition was anſwered, they gave a Shout according to their Cuſtome, which ſignified <hi>Amen,</hi> that they would continue the War to the utmoſt.</p>
+            <p>After the ſaid Anſwer was made, The <hi>Maquas Sachems</hi> ſaid after they had Repeated our Anſwer. We are glad to ſee that you are not Diſcouraged, A miſtake can be made by the beſt and wiſeſt of men, and we muſt ſee now to Purſue the War with all Vigour, we have an hundred men out in Purſuit of the Enemy ſtill, who are good Skouts; in the mean time, we expect all the <hi>Sachims</hi> of the Upper Nations to Conſult with us, who will come to Condole the Death of our <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> Murthered at <hi>Shennechtady:</hi> You need not fear our being Rea<g ref="char:EOLhyphen"/>dy, we are ſoon fitted out, our Ax is in our hand. But take care for your ſelves to be in Readineſs. The Ships that muſt do the principal work are long a Fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting out and Rigging; we do not Deſign to go out with a ſmall Troop as Skouts, but as ſoon as the Nations come together; we will go with a whole Army to Ruine the Coun<g ref="char:EOLhyphen"/>try. The Buiſineſs muſt be ſoon brought to a Period; therefore ſend in all haſte to <hi>New-England,</hi> for we nor you cannot live long in this Condition; we muſt order it ſo, that the <hi>French</hi> be in a continual Fear and Alarm, and that is the way to be in Peace here.</p>
+            <p>Concerning the <hi>Shakkook</hi> Indians in our Opinion they lye well where they are, as a good Watch, They are our Children, we will take care that they do their Duty, but as for the <hi>Indians</hi> that live be<g ref="char:EOLhyphen"/>low the Town, Them we mean muſt be ſent for up, and got to Plant and live together, to be always in Readineſs upon occaſion.</p>
+            <closer>This is a true Copy Examined By <signed>Robert Livingſton.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:185030:9"/>
+            <head>EXAMINATION of three <hi>French</hi> Pri<g ref="char:EOLhyphen"/>ſoners taken by the <hi>Maquaſe,</hi> and brought to <hi>Sennechtady,</hi> who were Examined by <hi>Pieter Schuyler,</hi> Mayor of the City of <hi>Albany; Dom. Goduridus Delius,</hi> and ſome other Gentlemen, that went from <hi>Albany</hi> a purpoſe, and Report as follows: <hi>March 3d. 1689/90.</hi>
+            </head>
+            <p n="1">1. THat about the middle of <hi>January,</hi> they went from <hi>Mont-Royal,</hi> being about Three Hundred Men, <hi>French</hi> and In<g ref="char:EOLhyphen"/>dians, to wit an hundred and ſixty <hi>French,</hi> among which onely nineteen Souldiers taken out of divers Companies, the Reſt all Boſs-lopers, them that frequent the Woods, and Inhabitants, and an hundred and forty Praying Indians and others, with poſitive Orders to Murder and Deſtroy all People they met withal at <hi>Shennechtady,</hi> except ſuch as begg'd for quarters, as alſo to burn the Place, and take with them thoſe that they could carry a<g ref="char:EOLhyphen"/>long: after ſaid Company had Marched ſome days from <hi>Canada,</hi> ſome <hi>French</hi> and <hi>Indians</hi> that were ſick and Timorous, Return<g ref="char:EOLhyphen"/>ed; ſo that the Party were two hundred and fifty that did the the Exploit at <hi>Shennechtady,</hi> by the Indians called <hi>Ochques.</hi>
+            </p>
+            <p n="2">2 After Enquiry of the Particulars of the Murder, they Con<g ref="char:EOLhyphen"/>feſſed, that four or five <hi>French</hi> had Murdered the Miniſter of the ſaid Village called <hi>Pieter Toſſemaker,</hi> firſt ſhooting him thorow the Leggs, and then hew'd him with their Swords moſt barba<g ref="char:EOLhyphen"/>rouſly, and being asked if they had Expreſs Orders to deal ſo Cruelly, ſaid, That their Order was to do what was done.</p>
+            <p n="3">3 Being enquired concerning the Priſoners, they carried along with them, ſaid, they were well Treated by the way, and with<g ref="char:EOLhyphen"/>in four or five days Journey of <hi>Canada,</hi> ſome of our Priſoners
+<pb n="10" facs="tcp:185030:10"/> went with the Indians, and the Remainder with the <hi>French,</hi> but that we need not doubt of their good Entertainment at <hi>Canada,</hi> ſince they will be Delivered to the Jeſuits to be inſtructed in their Religion.</p>
+            <p n="4">4 That they had eat about twenty or thirty of the Horſes they carri<g ref="char:EOLhyphen"/>ed along with them, and intended to carry ſeven with them to <hi>Canada.</hi>
+            </p>
+            <p n="5">5 That nevertheleſs Proviſions begun to grow ſcarce in their Army, and therefore two men were Diſpatched upon Scates, who go Twenty five Leagues in a day to Cauſe Proviſions be ſent them from <hi>Mont Royal.</hi>
+            </p>
+            <p n="6">6 That the ten Priſoners, whereof theſe now Examined were three, were taken by our Indians about two of the Clock in the Afternoon, being at the ſame fire that the body of the Army went from in the Morning, attending ſome ſick perſons who could not March ſo faſt as the Reſt. 7. That the manner of keeping their Scouts out a nights both in Coming and going was thirty men who Marched con<g ref="char:EOLhyphen"/>ſtantly Round the Army all night, about a Musket ſhot off, but near <hi>Shennechtady,</hi> the number of the ſaid Scouts was Doubled.</p>
+            <p n="8">8 That by the Tract they Trapann'd ſome <hi>Maquaſe Squaws</hi> near <hi>Shennechtady,</hi> whom they Compelled to give an account of the Condi<g ref="char:EOLhyphen"/>tion of the Place, and kept ſaid Indian Women till they had Commit<g ref="char:EOLhyphen"/>ted the Maſſacre; when they were within ſome Miles of <hi>Shennechtady,</hi> the Officers had a Conſultation about falling upon <hi>Albany;</hi> one <hi>Monſieur de Tallie</hi> who had been formerly here did Preſs hard to Attaque it, but becauſe their Orders was Expreſly for <hi>Shennechtady</hi> the Deſign on <hi>Alba<g ref="char:EOLhyphen"/>ny</hi> was put by.</p>
+            <p n="9">9 That they had loſt but one only <hi>French</hi> man at <hi>Shennechtady,</hi> and one ſore wounded:</p>
+            <p>
+               <hi>The ſaid Priſoners being Examined about the Affairs of</hi> Canada <hi>do ſay,</hi>
+            </p>
+            <p n="1">I. That laſt Summer eight or nine Ships arrived at <hi>Quebek,</hi> whereof two were Men of War, who brought ſtore of Ammunition and Provi<g ref="char:EOLhyphen"/>ſions, with which Ships the Earl of <hi>Frontinak</hi> came for Governour, and Monſieur <hi>Callier</hi> Governour of <hi>Mont Royal,</hi> and the Indian Priſo<g ref="char:EOLhyphen"/>ners, but brought no Souldiers, and that the Marqueſs de <hi>Denonville</hi> late Governour went away with ſaid Ships.</p>
+            <p n="2">II. That they expect for certain that Twelve Men of War will come this Summer with Two thouſand Men, and two Years Proviſi<g ref="char:EOLhyphen"/>ons for <hi>Canada.</hi>
+            </p>
+            <p n="3">3 The Governour <hi>Frontenak</hi> upon his Voyage to <hi>Canada</hi> met with a
+<pb n="11" facs="tcp:185030:10"/> 
+               <hi>French</hi> Ship Loaden with B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sket, bound for the North-weſt Paſſage, car<g ref="char:EOLhyphen"/>ried the ſame along with him to <hi>Canada,</hi> and ſent her Loading with great ſtore of Pork and Meal come from <hi>France</hi> up to <hi>Mont Royal.</hi>
+            </p>
+            <p n="4">IV That Proviſions were not dealer at <hi>Canada</hi> now than formerly, a Minot of Meal being ſold for a <hi>French</hi> Crown, adding that the Da<g ref="char:EOLhyphen"/>mage done by the Indians to their Corn in <hi>Canada</hi> was inconſiderable.</p>
+            <p n="5">V. Governour <hi>Frontenak</hi> came to <hi>Mont Royal</hi> about the middle of <hi>September,</hi> which Place he hath Fortified with a Ditch ten foot deep, and twelve foot wide, round about the Town, except at the River ſide, where he hath built of Stone right out where the Guard is kept.</p>
+            <p n="6">VI. That he had brought twelve ſmall Morter-peices and ſome ſmall Canon from <hi>France</hi> with him, which Morter-peices a man can eaſily carry, one of the ſaid Priſoners having try'd it himſelf.</p>
+            <p n="7">VII. The Governour <hi>Frontenak</hi> had caus'd to be made one hun<g ref="char:EOLhyphen"/>dred and twenty <hi>Batoes,</hi> that is flat bottom'd Boats, fit to carry eight or nine men, with Proviſions and Amunition; as alſo one hundred Bark Cannoes at <hi>Mont Royal:</hi> the firſt were all made, and the latter the greateſt part ready: and that it was much diſ<g ref="char:EOLhyphen"/>courſed among the <hi>French</hi> of light Ladders to ſtorm the Fort at <hi>Albany;</hi> all which together with the Morter-pieces, are making ready to come early in the Spring with fifteen hundred men to Ataque <hi>Albany</hi> by the French call'd <hi>Fort D' Orange.</hi>
+            </p>
+            <p n="8">VIII. That Governour <hi>Frontenak</hi> went in the Moneth of <hi>No<g ref="char:EOLhyphen"/>vember</hi> to <hi>Quebeck,</hi> and was deſign'd to return to <hi>Mont Royal</hi> in the Winter, or at longeſt early in the Spring, to accompliſh their Deſign upon <hi>Albany.</hi>
+            </p>
+            <p n="9">IX. That for that purpoſe <hi>Monſieur d' Lute</hi> was to go as ſoon as poſſible in the Spring, with fifty Souldiers to <hi>Ottowawa,</hi> to bring down the Indians to <hi>Mont Royal.</hi>
+            </p>
+            <p n="10">X. For the preſent, there are ſix Companies of Souldiers at <hi>Mont Royal</hi> of fifty men each, beſides ſix or ſeven hundred <hi>Burgers</hi> and <hi>Inhabitants.</hi>
+            </p>
+            <p n="11">
+               <pb n="12" facs="tcp:185030:11"/>XI. The Kings Souldiers at <hi>Canada</hi> are computed to be fifteen or ſixteen hundred men, and the ſaid quantity of <hi>Burgers</hi> and <hi>In<g ref="char:EOLhyphen"/>habitants,</hi> who are fit to carry Arms, beſides their <hi>Indians.</hi>
+            </p>
+            <p n="12">XII. That ſaid Souldiers are divided in the following Towns and Forts, Viz. <hi>Quebek, Mont Royal, Chambly, Troy River, Sorel,</hi> and twenty four Towns and Forts more.</p>
+            <p n="13">XIII. They ſay that it was divulged at <hi>Mont Royal,</hi> that four hundred men were gone from <hi>Quebek</hi> under command of <hi>Monſ. Pirneuffe,</hi> and <hi>Monſieur Courtimanche,</hi> being all <hi>Boſſe-lopers</hi> Inhabi<g ref="char:EOLhyphen"/>tants and Indians. (And no Souldiers) towards <hi>Kinnebek</hi> River, to take a certain <hi>Engliſh Fort,</hi> and that another Company, but not ſo numerous, under the Conduct of Monſ. <hi>Artel</hi> were gone towards the Province of <hi>New York</hi> to do miſchief there.</p>
+            <p n="14">XIV. That the <hi>French</hi> King was pleaſed to give <hi>Cadarachqui</hi> to Governour <hi>Frontenak</hi> as a Gift, who was very much diſplea<g ref="char:EOLhyphen"/>ſed at his Arrival, when he heard that it was Deſerted, and that Governour <hi>de Denonville</hi> had given Orders to demoliſh it, The Garriſon that lay there, being eighty men, were come home, eight were drown'd moſt of the Amunition being thrown in the Water; and among the reſt four or five hundred ſmall Arms, and have ſunk the Canon about twenty Leagues from <hi>Mont Royal.</hi>
+            </p>
+            <closer>A true Copy, Examined by <signed>Robert Livingſton.</signed>
+            </closer>
+            <postscript>
+               <p>Memorandum, <hi>The French Murther'd ſixty Men, Women and Children at</hi> Shen<g ref="char:EOLhyphen"/>nechtady, <hi>and carried twenty ſeven Men &amp; Boys Priſoners to</hi> Canada.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Boſton <hi>Printed by</hi> S. Green. Sold by <hi>Benjamin Harris</hi> at the <hi>London Coffee-Houſe.</hi> 1690.</p>
+            <pb facs="tcp:185030:11"/>
+            <pb facs="tcp:185030:12"/>
+            <pb facs="tcp:185030:12"/>
+            <pb facs="tcp:185030:13"/>
+            <pb facs="tcp:185030:13" rendition="simple:additions"/>
+            <pb facs="tcp:185030:14"/>
+            <pb facs="tcp:185030:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
